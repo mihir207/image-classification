@@ -1,2 +1,6 @@
 # Image-Classification
-A small project on Image Classification using Support Vector Machines
+A small project on Image Classification 
+Two sub projects :
+  1.Using Support Vector Machines
+  2.Using Tensorflow
+  
